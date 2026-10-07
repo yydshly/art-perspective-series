@@ -1,0 +1,86 @@
+{
+  "objectID": 490012,
+  "isHighlight": true,
+  "accessionNumber": "1999.363.57",
+  "accessionYear": "1999",
+  "isPublicDomain": false,
+  "primaryImage": "",
+  "primaryImageSmall": "",
+  "additionalImages": [],
+  "constituents": [
+    {
+      "constituentID": 162134,
+      "role": "Artist",
+      "name": "Piet Mondrian",
+      "constituentULAN_URL": "http://vocab.getty.edu/page/ulan/500004972",
+      "constituentWikidata_URL": "https://www.wikidata.org/wiki/Q151803",
+      "gender": ""
+    }
+  ],
+  "department": "Modern and Contemporary Art",
+  "objectName": "Painting",
+  "title": "Tableau",
+  "culture": "",
+  "period": "",
+  "dynasty": "",
+  "reign": "",
+  "portfolio": "",
+  "artistRole": "Artist",
+  "artistPrefix": "",
+  "artistDisplayName": "Piet Mondrian",
+  "artistDisplayBio": "Dutch, Amersfoort 1872\u20131944 New York",
+  "artistSuffix": "",
+  "artistAlphaSort": "Mondrian, Piet",
+  "artistNationality": "Dutch",
+  "artistBeginDate": "1872",
+  "artistEndDate": "1944",
+  "artistGender": "",
+  "artistWikidata_URL": "https://www.wikidata.org/wiki/Q151803",
+  "artistULAN_URL": "http://vocab.getty.edu/page/ulan/500004972",
+  "objectDate": "1921",
+  "objectBeginDate": 1921,
+  "objectEndDate": 1921,
+  "medium": "Oil on canvas",
+  "dimensions": "19 1/2 \u00d7 19 1/2 in. (49.5 \u00d7 49.5 cm)",
+  "measurements": [
+    {
+      "elementName": "Overall",
+      "elementDescription": null,
+      "elementMeasurements": {
+        "Height": 49.5,
+        "Width": 49.5
+      }
+    },
+    {
+      "elementName": "Framed",
+      "elementDescription": "F.1999.363.57  White wood float w/ white wood top w/ AR plexi",
+      "elementMeasurements": {
+        "Depth": 5.08001,
+        "Height": 66.67513,
+        "Width": 66.99264
+      }
+    }
+  ],
+  "creditLine": "Jacques and Natasha Gelman Collection, 1998",
+  "geographyType": "",
+  "city": "",
+  "state": "",
+  "county": "",
+  "country": "",
+  "region": "",
+  "subregion": "",
+  "locale": "",
+  "locus": "",
+  "excavation": "",
+  "river": "",
+  "classification": "Paintings",
+  "rightsAndReproduction": "",
+  "linkResource": "",
+  "metadataDate": "2026-09-22T04:57:32.23Z",
+  "repository": "Metropolitan Museum of Art, New York, NY",
+  "objectURL": "https://www.metmuseum.org/art/collection/search/490012",
+  "tags": null,
+  "objectWikidata_URL": "https://www.wikidata.org/wiki/Q20189940",
+  "isTimelineWork": false,
+  "GalleryNumber": ""
+}

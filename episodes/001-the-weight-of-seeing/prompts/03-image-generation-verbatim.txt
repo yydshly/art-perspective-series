@@ -1,0 +1,9 @@
+Original asset: assets/inner-life.png
+Created: 2026-10-07
+Tool: OpenAI built-in image generation
+No input or reference images. No named artist style. No real person's identity.
+
+Prompt:
+Use case: stylized-concept. Asset: original cinematic image for the final movement of a bilingual experimental film about art, attention and the inner life. Create one 16:9 wide frame, without any text. An anonymous adult human in close profile, androgynous, occupying the left-middle of the composition; only one face, eyes softly closed, no spectacle or devices. Their face is built from extraordinarily fine photogravure grain and charcoal, apparently emerging from dark water and an expanse of ink-wash mist. On the right, the graphite gestures break into sparse tiny mineral-blue and muted copper points, like attention returning to silence. A few almost invisible geometrical grid lines dissolve into organic contours. Material: real paper fibers, etched lines, skin rendered with restrained physical detail, not a vector illustration. Asymmetrical composition, deep charcoal background, pale bone highlights, low-key museum-quality photographic lighting, quiet psychologically complex atmosphere. Full image must remain mostly dark, subtly luminous skin, no neon, no glossy CGI, no collage seams, no giant spherical shape, no logos, no lettering, no border. An original contemporary composition, not a copy of any existing artwork or any named artist's style.
+
+Animation: deterministic 32-pixel tiles move on individual trajectories toward the intact generated portrait; procedural water contours continue across the lower edge. The source is labeled as original interpretation and the presentation page discloses its generated provenance.

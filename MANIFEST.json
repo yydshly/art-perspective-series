@@ -1,0 +1,223 @@
+{
+  "release": "2026-10-07-series-initial",
+  "privacy": "private",
+  "episode_001": "complete",
+  "episode_002": "draft_only_not_in_production",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 115,
+      "sha256": "3825888bfe1b3b4bc35ab3712c4dc3432af3ea52dcb5e4e428edc855f1e91960"
+    },
+    {
+      "path": "README.md",
+      "bytes": 2117,
+      "sha256": "6f61611014f894dc055300953260ad94e288694d06b2abaa7ec8238062718218"
+    },
+    {
+      "path": "RIGHTS.md",
+      "bytes": 1577,
+      "sha256": "6a39ef93c4df05294b24090a29615a7e19df6b5654c1f264cbf4872adcebf87a"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/README.md",
+      "bytes": 2562,
+      "sha256": "3fc0e28834cec2be146e410b2f086ad117ddaf292c57fef46098a0b37496b57f"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/STORYBOARD.md",
+      "bytes": 1620,
+      "sha256": "9104b115bbaf2998918c833c9915c67b3336e74c40ac50d4ce27f5c96025cedc"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/media/The-Weight-of-Seeing-Mobile.mp4",
+      "bytes": 16928325,
+      "sha256": "9077c7e73df693650ab5e0e9bb6d9da12f67bbfdefd914a2bc45a856e9129cfa"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/media/The-Weight-of-Seeing.mp4",
+      "bytes": 52924421,
+      "sha256": "6a1d9fb0e0909c85fc4bbf337a1b7bd1a863d8a338681864de20550f9e590ab9"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/media/The-Weight-of-Seeing.zh-en.srt",
+      "bytes": 2420,
+      "sha256": "c8b69188d6c6776ec2c1a7d8bd159a90ee2b3dc2d8e23b2d5871d06db730917b"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/DELIVERY-README.original.md",
+      "bytes": 3350,
+      "sha256": "e4e994c62bf2c917f0d2952c5327e746385195e04bd90ba2bee758a3d1b71900"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/GENERATION.txt",
+      "bytes": 1733,
+      "sha256": "66c9ab350aa7a5d2635c1bbb3bc295b5a58ed52a10045345a51ad11ce1f13dda"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/SOURCES.json",
+      "bytes": 3137,
+      "sha256": "3dca9e1f1d2d73c961a5af38cd08f12b76383eb5c81e685a713c625859200429"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/TRANSCRIPT.md",
+      "bytes": 2197,
+      "sha256": "cfff2ae4773230996ecb0e0d00579b29fddaaa09055aaf05b7b639ffdf7b8220"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/VERSION.txt",
+      "bytes": 181,
+      "sha256": "eec4d176f54400a68d82b122eecb2c0b8441229ec7acb2dd23eb2ea69a8989d4"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/assets/inner-life.png",
+      "bytes": 2664407,
+      "sha256": "f45f2607322d1187f42df58e42966af162bd5d5a136f8571cca095250c82dc52"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/assets/melencolia.jpg",
+      "bytes": 3930873,
+      "sha256": "fd8da63e542a058d685711d2e0d7ea4b3722d3d16892498870b02c08d06eeb0f"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/assets/melencolia.json",
+      "bytes": 2950,
+      "sha256": "f9ed16c9c71b1df30a27c9386ee99b855d2bcc8b91350a162ace8075a5f71062"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/assets/mondrian.json",
+      "bytes": 2402,
+      "sha256": "607246c20b3983c861853c740f3c35d112deed331bc39116dc7be5ff39af788e"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/assets/retreat.jpg",
+      "bytes": 1685310,
+      "sha256": "646875565422c7a3224c500b991abdeb520d19daa160612ab2b71af5ef50862c"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/assets/retreat.json",
+      "bytes": 3553,
+      "sha256": "c4695c3379a1f3cbb1a9fb57c1b907bacd56028ca0058c931e9441e855ba5ce0"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/assets/sideshow.jpg",
+      "bytes": 15403158,
+      "sha256": "8453f4fa9f01ad532c045807aae99a39edfd137629bace3cb4c1f65b00b9af42"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/assets/sideshow.json",
+      "bytes": 3344,
+      "sha256": "5141199ef69e259bf654e720e0ef01ff31f9954be8ba4b0353ab7c1d92ca0cce"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/assets/sources.json",
+      "bytes": 1784,
+      "sha256": "2ee8d61f0971743065bc911a781ffcf6a17b55c958c302fac85aaf2fd9cbfe29"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/assets/wave.jpg",
+      "bytes": 2342637,
+      "sha256": "cbb9988f2f18b9180a1cc0cf5dbb0e3bbf8f2e85d17930cf6ca9ab36fac36303"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/assets/wave.json",
+      "bytes": 2809,
+      "sha256": "1992007f9d0eaa3dd5c0edf5484ee582f844c1df5211d8106c190a4487d045ac"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/fetch_assets.py",
+      "bytes": 892,
+      "sha256": "3cb132c5b46d67c3f53dd06d3f3ab2155d4741b713b7685a58f1fabe537faf08"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/master.sh",
+      "bytes": 1584,
+      "sha256": "7a256ad3cfa4c9218126243533d8bb12598714bbcca390cb4645287452e3fad5"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/render.py",
+      "bytes": 18578,
+      "sha256": "216506dea5714d977e2e11a251a8a5e78107417e50aed655fd537b7411f6745b"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/production/score.py",
+      "bytes": 2875,
+      "sha256": "fd5a302f009f45d4b547ae05e70644e86f8e27b592f73d9d4badc3bf2663577d"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/prompts/01-user-request-verbatim.md",
+      "bytes": 2315,
+      "sha256": "f9ff41d90a9fd96fd15fe9a478f6fac99855caecad1d385e7ce5d3eb1f0dffaf"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/prompts/02-production-brief.md",
+      "bytes": 2082,
+      "sha256": "a39cdabd95899c7426d0035950f2784ab0c3169905f65260462c69e7467589f0"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/prompts/03-image-generation-verbatim.txt",
+      "bytes": 1733,
+      "sha256": "66c9ab350aa7a5d2635c1bbb3bc295b5a58ed52a10045345a51ad11ce1f13dda"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/qa/encoded-endcard.jpg",
+      "bytes": 17612,
+      "sha256": "548fbddb6de9eaf7bd7193b03fbdb796a5f2e90fb3f9feedc874f63b63bb660f"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/qa/final-contact-sheet.jpg",
+      "bytes": 220357,
+      "sha256": "b3a509ed865a7ad3553512b67003aa8df821d8760afabafdffd390b60f5c6668"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/qa/master-loudness.txt",
+      "bytes": 394426,
+      "sha256": "783cdb3f961015de8c8f94d9934fa9743b0d1ae2e16324da1533f518fd57904a"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/qa/master-probe.json",
+      "bytes": 4543,
+      "sha256": "d97159bf90f9d82660dd88f73b875faf24b72a15603fd30d2ff7e2a23267de0e"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/qa/page-logic.json",
+      "bytes": 116,
+      "sha256": "b782407329601685b7d9f63436821f98dbf13cfd3a017fec1dd10df51abeff6a"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/qa/technical-qa.json",
+      "bytes": 4353,
+      "sha256": "6e4192cfeb876cbeb9af2006845b256ecb164f12b45257d0fbd9456a239cc340"
+    },
+    {
+      "path": "episodes/001-the-weight-of-seeing/qa/web-probe.json",
+      "bytes": 4528,
+      "sha256": "8608d4e1ee4c8dca0fc13929a7a292a278bffa3c9476759214174af551a354b2"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/BRIEF.md",
+      "bytes": 3694,
+      "sha256": "b13338e34b2e3a105e7d2b09689373dc2c75e05fb16139f8e00d7e0fb4a4c4c7"
+    },
+    {
+      "path": "series/NEXT-DIRECTIONS.md",
+      "bytes": 1830,
+      "sha256": "1d5c759482e8e4b735933cf82a3eb83b12afc2a570c8f8fbbdc8fc37531e215a"
+    },
+    {
+      "path": "series/PIPELINE.md",
+      "bytes": 3101,
+      "sha256": "f5b01fddf15338a10a92c30ec7f083917525671bf095a4e301b1869a681ed15b"
+    },
+    {
+      "path": "series/POSITIONING.md",
+      "bytes": 2952,
+      "sha256": "771a65982c21ca14b9a1abe18a102d6d40b46ac3c19a6e9b5f047850bd3f5887"
+    },
+    {
+      "path": "templates/EPISODE-BRIEF.md",
+      "bytes": 539,
+      "sha256": "4638085fa1ed37c8ae7a327d583591d893475804ea0bcef893a2544555b9ab3c"
+    }
+  ]
+}

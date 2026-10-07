@@ -1,0 +1,46 @@
+[
+  {
+    "key": "retreat",
+    "id": 39550,
+    "title": "Simple Retreat",
+    "date": "ca. 1370",
+    "artist": "Wang Meng",
+    "url": "https://www.metmuseum.org/art/collection/search/39550",
+    "image": "https://images.metmuseum.org/CRDImages/as/original/DP274196.jpg",
+    "rights": "Public domain; The Met Open Access (CC0)",
+    "credit": "Ex coll.: C. C. Wang Family, Gift of Oscar L. Tang Family, 2012"
+  },
+  {
+    "key": "melencolia",
+    "id": 360018,
+    "title": "Melencolia I",
+    "date": "1514",
+    "artist": "Albrecht Dürer",
+    "url": "https://www.metmuseum.org/art/collection/search/360018",
+    "image": "https://images.metmuseum.org/CRDImages/dp/original/DP815742.jpg",
+    "rights": "Public domain; The Met Open Access (CC0)",
+    "credit": "Fletcher Fund, 1919"
+  },
+  {
+    "key": "wave",
+    "id": 45434,
+    "title": "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
+    "date": "ca. 1830–32",
+    "artist": "Katsushika Hokusai",
+    "url": "https://www.metmuseum.org/art/collection/search/45434",
+    "image": "https://images.metmuseum.org/CRDImages/as/original/DP130155.jpg",
+    "rights": "Public domain; The Met Open Access (CC0)",
+    "credit": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929"
+  },
+  {
+    "key": "sideshow",
+    "id": 437654,
+    "title": "Circus Sideshow (Parade de cirque)",
+    "date": "1887–88",
+    "artist": "Georges Seurat",
+    "url": "https://www.metmuseum.org/art/collection/search/437654",
+    "image": "https://images.metmuseum.org/CRDImages/ep/original/DP375450_cropped.jpg",
+    "rights": "Public domain; The Met Open Access (CC0)",
+    "credit": "Bequest of Stephen C. Clark, 1960"
+  }
+]

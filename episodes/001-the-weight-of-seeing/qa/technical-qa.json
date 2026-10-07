@@ -1,0 +1,201 @@
+{
+  "subtitle_layout": {
+    "within_safe_width": true,
+    "min_hold_seconds": 7,
+    "measurements": [
+      {
+        "start": 3,
+        "end": 11,
+        "zh_pixels": 390.0,
+        "en_pixels": 444.234375,
+        "duration": 8
+      },
+      {
+        "start": 16,
+        "end": 25,
+        "zh_pixels": 286.0,
+        "en_pixels": 395.6875,
+        "duration": 9
+      },
+      {
+        "start": 27,
+        "end": 36,
+        "zh_pixels": 416.0,
+        "en_pixels": 545.578125,
+        "duration": 9
+      },
+      {
+        "start": 39,
+        "end": 47,
+        "zh_pixels": 494.0,
+        "en_pixels": 393.546875,
+        "duration": 8
+      },
+      {
+        "start": 52,
+        "end": 61,
+        "zh_pixels": 260.0,
+        "en_pixels": 278.25,
+        "duration": 9
+      },
+      {
+        "start": 63,
+        "end": 73,
+        "zh_pixels": 485.1875,
+        "en_pixels": 414.765625,
+        "duration": 10
+      },
+      {
+        "start": 76,
+        "end": 83,
+        "zh_pixels": 364.0,
+        "en_pixels": 438.109375,
+        "duration": 7
+      },
+      {
+        "start": 88,
+        "end": 98,
+        "zh_pixels": 442.0,
+        "en_pixels": 529.546875,
+        "duration": 10
+      },
+      {
+        "start": 100,
+        "end": 110,
+        "zh_pixels": 442.0,
+        "en_pixels": 508.421875,
+        "duration": 10
+      },
+      {
+        "start": 112,
+        "end": 119,
+        "zh_pixels": 416.0,
+        "en_pixels": 415.109375,
+        "duration": 7
+      },
+      {
+        "start": 124,
+        "end": 134,
+        "zh_pixels": 442.0,
+        "en_pixels": 506.796875,
+        "duration": 10
+      },
+      {
+        "start": 136,
+        "end": 146,
+        "zh_pixels": 494.0,
+        "en_pixels": 580.40625,
+        "duration": 10
+      },
+      {
+        "start": 148,
+        "end": 155,
+        "zh_pixels": 468.0,
+        "en_pixels": 519.1875,
+        "duration": 7
+      },
+      {
+        "start": 160,
+        "end": 170,
+        "zh_pixels": 442.0,
+        "en_pixels": 549.40625,
+        "duration": 10
+      },
+      {
+        "start": 172,
+        "end": 181,
+        "zh_pixels": 416.0,
+        "en_pixels": 328.96875,
+        "duration": 9
+      },
+      {
+        "start": 186,
+        "end": 195,
+        "zh_pixels": 390.0,
+        "en_pixels": 433.5,
+        "duration": 9
+      },
+      {
+        "start": 197,
+        "end": 205,
+        "zh_pixels": 286.0,
+        "en_pixels": 410.40625,
+        "duration": 8
+      },
+      {
+        "start": 207,
+        "end": 216,
+        "zh_pixels": 442.0,
+        "en_pixels": 508.15625,
+        "duration": 9
+      }
+    ]
+  },
+  "score": {
+    "duration": 228.0,
+    "sample_rate": 48000,
+    "channels": 2,
+    "sample_peak_dbfs": -2.8537035083195255,
+    "clipped_samples": 0,
+    "chapter_levels": [
+      {
+        "start": 12,
+        "end": 48,
+        "rms_dbfs": -16.4,
+        "peak_dbfs": -2.99
+      },
+      {
+        "start": 48,
+        "end": 84,
+        "rms_dbfs": -16.95,
+        "peak_dbfs": -4.04
+      },
+      {
+        "start": 84,
+        "end": 120,
+        "rms_dbfs": -17.39,
+        "peak_dbfs": -2.85
+      },
+      {
+        "start": 120,
+        "end": 156,
+        "rms_dbfs": -17.69,
+        "peak_dbfs": -3.13
+      },
+      {
+        "start": 156,
+        "end": 184,
+        "rms_dbfs": -17.29,
+        "peak_dbfs": -2.94
+      },
+      {
+        "start": 184,
+        "end": 218,
+        "rms_dbfs": -16.97,
+        "peak_dbfs": -3.87
+      }
+    ]
+  },
+  "browser_qa": {
+    "status": "blocked",
+    "details": "Local cloud-browser preview returned ERR_BLOCKED_BY_CLIENT. Independent installed Chromium launch was blocked by sandbox socket restrictions. No claim of browser interaction testing."
+  },
+  "visual_review": "Contact sheets and individual 1280x720 frames reviewed at source, transitional and original-animation stages, including final portrait and endcard.",
+  "master": {
+    "duration_seconds": 228.0,
+    "bytes": 52924421,
+    "frames": 5472,
+    "resolution": "1280×720",
+    "fps": 24,
+    "fully_decoded_without_error": true,
+    "integrated_loudness_LUFS": -19.0,
+    "true_peak_dBFS": -7.0,
+    "loudness_range_LU": 4.2
+  },
+  "web": {
+    "duration_seconds": 228.01,
+    "bytes": 24488590,
+    "fully_decoded_without_error": true,
+    "within_25_MiB_asset_limit": true
+  }
+}

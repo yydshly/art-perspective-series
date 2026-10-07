@@ -1,0 +1,75 @@
+{
+  "retrieved": "2026-10-07",
+  "assets": [
+    {
+      "file": "assets/retreat.jpg",
+      "artist": "Wang Meng",
+      "title": "Simple Retreat",
+      "date": "ca. 1370",
+      "accession": "2012.526.2",
+      "credit": "Ex coll.: C. C. Wang Family, Gift of Oscar L. Tang Family, 2012",
+      "source": "https://www.metmuseum.org/art/collection/search/39550",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP274196.jpg",
+      "isPublicDomain": true,
+      "rights": "The Met Open Access / CC0",
+      "sha256": "646875565422c7a3224c500b991abdeb520d19daa160612ab2b71af5ef50862c"
+    },
+    {
+      "file": "assets/melencolia.jpg",
+      "artist": "Albrecht Dürer",
+      "title": "Melencolia I",
+      "date": "1514",
+      "accession": "19.73.85",
+      "credit": "Fletcher Fund, 1919",
+      "source": "https://www.metmuseum.org/art/collection/search/360018",
+      "image_url": "https://images.metmuseum.org/CRDImages/dp/original/DP815742.jpg",
+      "isPublicDomain": true,
+      "rights": "The Met Open Access / CC0",
+      "sha256": "fd8da63e542a058d685711d2e0d7ea4b3722d3d16892498870b02c08d06eeb0f"
+    },
+    {
+      "file": "assets/wave.jpg",
+      "artist": "Katsushika Hokusai",
+      "title": "Under the Wave off Kanagawa (Kanagawa oki nami ura), also known as The Great Wave, from the series Thirty-six Views of Mount Fuji (Fugaku sanjūrokkei)",
+      "date": "ca. 1830–32",
+      "accession": "JP1847",
+      "credit": "H. O. Havemeyer Collection, Bequest of Mrs. H. O. Havemeyer, 1929",
+      "source": "https://www.metmuseum.org/art/collection/search/45434",
+      "image_url": "https://images.metmuseum.org/CRDImages/as/original/DP130155.jpg",
+      "isPublicDomain": true,
+      "rights": "The Met Open Access / CC0",
+      "sha256": "cbb9988f2f18b9180a1cc0cf5dbb0e3bbf8f2e85d17930cf6ca9ab36fac36303"
+    },
+    {
+      "file": "assets/sideshow.jpg",
+      "artist": "Georges Seurat",
+      "title": "Circus Sideshow (Parade de cirque)",
+      "date": "1887–88",
+      "accession": "61.101.17",
+      "credit": "Bequest of Stephen C. Clark, 1960",
+      "source": "https://www.metmuseum.org/art/collection/search/437654",
+      "image_url": "https://images.metmuseum.org/CRDImages/ep/original/DP375450_cropped.jpg",
+      "isPublicDomain": true,
+      "rights": "The Met Open Access / CC0",
+      "sha256": "8453f4fa9f01ad532c045807aae99a39edfd137629bace3cb4c1f65b00b9af42"
+    },
+    {
+      "file": "assets/inner-life.png",
+      "title": "Inward attention",
+      "source": "Generated specifically for this film using OpenAI image generation",
+      "rights": "Original generated asset; no existing artwork or person supplied",
+      "sha256": "f45f2607322d1187f42df58e42966af162bd5d5a136f8571cca095250c82dc52"
+    }
+  ],
+  "research_only": [
+    {
+      "url": "https://www.metmuseum.org/art/collection/search/490012",
+      "title": "Piet Mondrian, Tableau, 1921",
+      "usage": "Historical context only. Restricted image was not downloaded or used."
+    },
+    {
+      "url": "https://www.metmuseum.org/hubs/open-access",
+      "title": "The Met Open Access policy"
+    }
+  ]
+}
