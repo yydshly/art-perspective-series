@@ -1,6 +1,6 @@
 {
   "release": "2026-10-07-art-led-rebase-after-two-rejections",
-  "privacy": "private",
+  "privacy": "public",
   "episode_001": "complete_unchanged",
   "episode_002_v1": "rejected_by_user",
   "episode_002_v2": "rejected_by_user",
@@ -15,8 +15,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 2669,
-      "sha256": "3a52ac99c0f3c04d563e767bc4f3162b614a07f18d66b7f5d0ad5682fa582ac1"
+      "bytes": 3825,
+      "sha256": "cead43cc1584e3409871a10b20311d8627dfd7d50ac31cc9178c680913f3f5d4"
     },
     {
       "path": "RIGHTS.md",
@@ -327,6 +327,11 @@
       "path": "episodes/002-the-right-to-pause/qa/v2/rejected-v1-contact.jpg",
       "bytes": 39443,
       "sha256": "cf32dd41eacdf4cbec92e09bba8175a7346b4cd9332deb8f261723ae1e8595e4"
+    },
+    {
+      "path": "presentation/seeing-poster.jpg",
+      "bytes": 354142,
+      "sha256": "a85ed58dd4923ac8aeb9c5a44f23047a350d26ac7aaa91244cef8ead1d35501c"
     },
     {
       "path": "product/README.md",
