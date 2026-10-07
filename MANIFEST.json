@@ -1,17 +1,17 @@
 {
-  "release": "2026-10-07-art-led-rebase-after-two-rejections",
+  "release": "2026-10-07-within-the-surface-36-second-research",
   "privacy": "public",
   "episode_001": "complete_unchanged",
   "episode_002_v1": "rejected_by_user",
   "episode_002_v2": "rejected_by_user",
   "pause_topic": "withdrawn_as_default_next_episode",
-  "new_rendering": "paused_for_artistic_concept_review",
+  "new_rendering": "bounded 003 material study completed, pending user feedback; no new full film",
   "product": "artistic_seed_domain_atmosphere_emotion_to_audiovisual_composition",
   "files": [
     {
       "path": ".gitignore",
-      "bytes": 542,
-      "sha256": "b57fd786181e557f392d1e6a1eef01fc5f6d77fb8724e1dbc12c1f22645364fd"
+      "bytes": 695,
+      "sha256": "76aff395a0721e784273825672f8802f97bf946d6859fd1cb0a87208c338df56"
     },
     {
       "path": "README.md",
@@ -329,6 +329,91 @@
       "sha256": "cf32dd41eacdf4cbec92e09bba8175a7346b4cd9332deb8f261723ae1e8595e4"
     },
     {
+      "path": "episodes/003-within-the-surface/README.md",
+      "bytes": 2060,
+      "sha256": "dd1d679c4f39fda76a9e22401adde180dd7efb552c0e746a2624255485d6e814"
+    },
+    {
+      "path": "episodes/003-within-the-surface/media/Within-the-Surface-36s-Study.mp4",
+      "bytes": 14038945,
+      "sha256": "aba8b2abb275ec4398d6223a392ae59a6477bd41f307338dc3aa2e300be25740"
+    },
+    {
+      "path": "episodes/003-within-the-surface/production/assets/SOURCES.json",
+      "bytes": 1990,
+      "sha256": "9e9bf3b077ac04a24232132a41ca96e088267c48b0a027c3db56b52ed4600a98"
+    },
+    {
+      "path": "episodes/003-within-the-surface/production/assets/lilies-1906-record.json",
+      "bytes": 26007,
+      "sha256": "440aa6e42e64ec32352abcb128b75e09622a5d0c7bb2c7f2b0ca989005499f4b"
+    },
+    {
+      "path": "episodes/003-within-the-surface/production/assets/lilies-1906-reference.jpg",
+      "bytes": 3929524,
+      "sha256": "fa27f5bd28790b35cdd4e4ca044562c4e391bc64dd7c3165dcf8ac056adb75e2"
+    },
+    {
+      "path": "episodes/003-within-the-surface/production/assets/pond-1900-record.json",
+      "bytes": 27018,
+      "sha256": "bc46ac9f4d3f5bcef1c9863d46d106bd2dcd20b7cdefbdad4b837432305e7fe4"
+    },
+    {
+      "path": "episodes/003-within-the-surface/production/assets/pond-1900-reference.jpg",
+      "bytes": 4705168,
+      "sha256": "bbe78aa2d4fae71ee6caa45a19ae46a21ead16ac87b2fbedbcaf18ddde537b13"
+    },
+    {
+      "path": "episodes/003-within-the-surface/production/render_study.py",
+      "bytes": 8743,
+      "sha256": "e648dde9208398521390bacdbfb0e3999d0e2444c527f970a0ad61230e9c78cd"
+    },
+    {
+      "path": "episodes/003-within-the-surface/qa/REVIEW.md",
+      "bytes": 1690,
+      "sha256": "105973fda92c3d73a92e24bb8d69b0fc05ae2ce012d58199ec3de2ba09f5dffa"
+    },
+    {
+      "path": "episodes/003-within-the-surface/qa/decode-errors.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "episodes/003-within-the-surface/qa/encoded-12.jpg",
+      "bytes": 159573,
+      "sha256": "b9de855d9fec9cc431b9e2a3f1bbce85271898874a316dc059f50547e2e07068"
+    },
+    {
+      "path": "episodes/003-within-the-surface/qa/encoded-28.jpg",
+      "bytes": 108900,
+      "sha256": "3487be0bfdf8e191cc3f715d8b14e886a188dbb83d006ceb79a9d39d8270cf81"
+    },
+    {
+      "path": "episodes/003-within-the-surface/qa/encoded-32.jpg",
+      "bytes": 115787,
+      "sha256": "fbdcb7579d8b12638d8e88afb1ac36e16ce8b5bb62c94d9383449485bf417a94"
+    },
+    {
+      "path": "episodes/003-within-the-surface/qa/encoded-contact.jpg",
+      "bytes": 163096,
+      "sha256": "e7622efb768d0f99e6183d8479ffaef19b9988276cdd675409d942efa4f62b39"
+    },
+    {
+      "path": "episodes/003-within-the-surface/qa/loudness.txt",
+      "bytes": 63713,
+      "sha256": "adfec0b1f25d11149e57389278fcd853d6c6279e5127faf3820fc6cdb0b47a6d"
+    },
+    {
+      "path": "episodes/003-within-the-surface/qa/probe.json",
+      "bytes": 455,
+      "sha256": "ae5c6a3c8195c1623fb580a056b25d5a41d8be196f389802373b322334b4db92"
+    },
+    {
+      "path": "episodes/003-within-the-surface/qa/transition-15.6.jpg",
+      "bytes": 124473,
+      "sha256": "c062d0726853985fcb7753987d800ac47e844ecf8197ed0d80eb34cd63593ac2"
+    },
+    {
       "path": "presentation/seeing-poster.jpg",
       "bytes": 354142,
       "sha256": "a85ed58dd4923ac8aeb9c5a44f23047a350d26ac7aaa91244cef8ead1d35501c"
@@ -365,8 +450,8 @@
     },
     {
       "path": "series/NEXT-DIRECTIONS.md",
-      "bytes": 1268,
-      "sha256": "44eb363c37c4d6a5fd84bd30219e452e43286cffea132a2a8fcc67af32a1e32c"
+      "bytes": 1749,
+      "sha256": "ca676cb5524b5062b8aef5811b2b6e5339c5ca2e423c7478513865fc9f0975c1"
     },
     {
       "path": "series/PIPELINE.md",
@@ -382,6 +467,31 @@
       "path": "series/PRODUCT.md",
       "bytes": 2224,
       "sha256": "a0b7e01f599a6b7f44745c2d23f0de6030db80ce03744ccbef21db902eb1b1f1"
+    },
+    {
+      "path": "series/concept-research/water-without-a-shore/QUALITY-GATES.md",
+      "bytes": 2384,
+      "sha256": "e3bef4d25e192bb3d9e3571ff9133c630f66316535457d2641df3da2df9db848"
+    },
+    {
+      "path": "series/concept-research/water-without-a-shore/TREATMENT.md",
+      "bytes": 6354,
+      "sha256": "8fd40cc0373e13a0c73dacf4c2d1e699e92148b2ad67ac12c3a4d323aac0d64f"
+    },
+    {
+      "path": "series/concept-research/water-without-a-shore/bridge-record.json",
+      "bytes": 2976,
+      "sha256": "8daac53202da1fe2666c69148d304249e40064077da5262895fd495d4121b05e"
+    },
+    {
+      "path": "series/concept-research/water-without-a-shore/lilies-1906-record.json",
+      "bytes": 26007,
+      "sha256": "440aa6e42e64ec32352abcb128b75e09622a5d0c7bb2c7f2b0ca989005499f4b"
+    },
+    {
+      "path": "series/concept-research/water-without-a-shore/pond-1900-record.json",
+      "bytes": 27018,
+      "sha256": "bc46ac9f4d3f5bcef1c9863d46d106bd2dcd20b7cdefbdad4b837432305e7fe4"
     },
     {
       "path": "series/reference-analysis/001-018.jpg",
@@ -453,5 +563,6 @@
       "bytes": 651,
       "sha256": "cdca4b58964f09a1d66c930c2a1d9d1d0f45408ad96bb09c9a6978dd64235e70"
     }
-  ]
+  ],
+  "new_art_research": "Within the Surface, 36-second study, pending user aesthetic feedback; not a finished new full film"
 }

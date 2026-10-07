@@ -1,0 +1,39 @@
+{
+  "assets": [
+    {
+      "file": "pond-1900-reference.jpg",
+      "artist": "Claude Monet",
+      "title": "Water Lily Pond",
+      "date": "1900",
+      "accession": "1933.441",
+      "credit_line": "Mr. and Mrs. Lewis Larned Coburn Memorial Collection",
+      "museum_api": "https://api.artic.edu/api/v1/artworks/87088",
+      "mirror_file_page": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lily_Pond_-_1933.441_-_Art_Institute_of_Chicago.jpg",
+      "rights": "Museum image marked public domain by official API; Commons museum reproduction explicitly CC0",
+      "obtained": "2026-10-07 through normal cloud-browser download from public Commons file page; no challenge bypass",
+      "sha1": "f91d13ddb8a734923085d4a3522319962199c701",
+      "sha256": "bbe78aa2d4fae71ee6caa45a19ae46a21ead16ac87b2fbedbcaf18ddde537b13",
+      "bytes": 4705168
+    },
+    {
+      "file": "lilies-1906-reference.jpg",
+      "artist": "Claude Monet",
+      "title": "Water Lilies",
+      "date": "1906",
+      "accession": "1933.1157",
+      "credit_line": "Mr. and Mrs. Martin A. Ryerson Collection",
+      "museum_api": "https://api.artic.edu/api/v1/artworks/16568",
+      "mirror_file_page": "https://commons.wikimedia.org/wiki/File:Claude_Monet_-_Water_Lilies_-_1933.1157_-_Art_Institute_of_Chicago.jpg",
+      "rights": "Museum image marked public domain by official API; Commons museum reproduction explicitly CC0",
+      "obtained": "2026-10-07 through normal cloud-browser download from public Commons file page; no challenge bypass",
+      "sha1": "50c5d4712ba933b640f72bfe073625be4884aa99",
+      "sha256": "fa27f5bd28790b35cdd4e4ca044562c4e391bc64dd7c3165dcf8ac056adb75e2",
+      "bytes": 3929524
+    }
+  ],
+  "metadata_license": "Art Institute API: description field CC-BY 4.0, other metadata CC0; source and license links retained in API record files",
+  "research": [
+    "https://publications.artic.edu/node/135613",
+    "https://publications.artic.edu/node/135621"
+  ]
+}

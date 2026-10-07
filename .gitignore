@@ -15,3 +15,6 @@ __pycache__/
 /episodes/002-the-right-to-pause/media/v2-silent.mp4
 /episodes/002-the-right-to-pause/qa/v2/*.log
 /episodes/002-the-right-to-pause/qa/v2/001-20s-reference.mp4
+/episodes/003-within-the-surface/media/study-score.wav
+/episodes/003-within-the-surface/media/study-silent.mp4
+/episodes/003-within-the-surface/qa/*.log
