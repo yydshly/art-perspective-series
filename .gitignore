@@ -7,3 +7,7 @@ __pycache__/
 **/production/output/
 **/production/qa/
 **/production/site/
+# Reproducible intermediate media from the episode 002 study
+/episodes/002-the-right-to-pause/media/sample-score.wav
+/episodes/002-the-right-to-pause/media/sample-silent.mp4
+/episodes/002-the-right-to-pause/qa/*.log

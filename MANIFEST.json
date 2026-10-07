@@ -1,18 +1,19 @@
 {
-  "release": "2026-10-07-series-initial",
+  "release": "2026-10-07-product-and-episode-002-study",
   "privacy": "private",
-  "episode_001": "complete",
-  "episode_002": "draft_only_not_in_production",
+  "episode_001": "complete_unchanged",
+  "episode_002": "script_and_20_second_study_for_feedback_not_final",
+  "product": "local_draft_and_feedback_workbench_prototype",
   "files": [
     {
       "path": ".gitignore",
-      "bytes": 115,
-      "sha256": "3825888bfe1b3b4bc35ab3712c4dc3432af3ea52dcb5e4e428edc855f1e91960"
+      "bytes": 331,
+      "sha256": "016ebc5301e2880ca66225f7e2e717193518c3742e34c405bf53196a1bce3119"
     },
     {
       "path": "README.md",
-      "bytes": 2117,
-      "sha256": "6f61611014f894dc055300953260ad94e288694d06b2abaa7ec8238062718218"
+      "bytes": 2726,
+      "sha256": "80859b55dc0f9de1aebd4c712a0d4e9f0147fe5b9280626e67e125fb55776442"
     },
     {
       "path": "RIGHTS.md",
@@ -196,8 +197,83 @@
     },
     {
       "path": "episodes/002-the-right-to-pause/BRIEF.md",
-      "bytes": 3694,
-      "sha256": "b13338e34b2e3a105e7d2b09689373dc2c75e05fb16139f8e00d7e0fb4a4c4c7"
+      "bytes": 3805,
+      "sha256": "3be2b09929643e4318315b14bffaee983b3d83e4e1cf51144ba0251897cf17ef"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/SCRIPT.md",
+      "bytes": 2563,
+      "sha256": "404e193ebf938df50ce4bdaaa2d3ac565414eccd463a9637a7fff76756a6220c"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/media/The-Right-to-Pause-20s-Study.mp4",
+      "bytes": 2420192,
+      "sha256": "b9dab90bb737e2e5d096982c5d4a29039feb9d4488f1b15881224c965cabe72d"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/production/render_sample.py",
+      "bytes": 5504,
+      "sha256": "fe25704ccee54190e7111ac1f3170446a2e46e9e7910c95d1b5e1406c24cf2e6"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/qa/REVIEW.md",
+      "bytes": 1044,
+      "sha256": "b0f83455e9e1831fb39495be4bcd2ec2db38d552ecab89cc115d5694d492faf1"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/qa/decode-errors.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/qa/loudness.txt",
+      "bytes": 36191,
+      "sha256": "b25b7bb48db963562bfe9eb1f27047fcd67c833359710b7c4cc0d3ad4b040b14"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/qa/probe.json",
+      "bytes": 453,
+      "sha256": "7abc21f129e7bb93c7b3b640dc952aee5a981fbd28ce93a1140d348d9ba09948"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/qa/sample-02.jpg",
+      "bytes": 170684,
+      "sha256": "baa963cc7d0e0e80cb5d6addde936ef2cdba8ffa1099699ef8b4dc3b07482723"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/qa/sample-07.jpg",
+      "bytes": 148445,
+      "sha256": "1a6059495900c1250ca76cfe4937f9d42fa64f2e9762711602877093a6e17246"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/qa/sample-12.jpg",
+      "bytes": 152567,
+      "sha256": "8238f03d2c23f98357913ab444259b748e5a9642e43ec2dd453f9faac2f70517"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/qa/sample-18.jpg",
+      "bytes": 137939,
+      "sha256": "c18311c7d3881b3c17345d4bc54ecdf4732d13cc80024cb97739a70acbb1cf68"
+    },
+    {
+      "path": "product/README.md",
+      "bytes": 1012,
+      "sha256": "5dd3932409b9f3c97840099e9b372a7e04f08acdaf12ce21e734be71ca204f86"
+    },
+    {
+      "path": "product/check-result.json",
+      "bytes": 159,
+      "sha256": "aee7d1958dcc8f7365ef9c5229508860b1dc3d2d7857094e2b96e59851224bc3"
+    },
+    {
+      "path": "product/check.cjs",
+      "bytes": 1665,
+      "sha256": "e745403f0a827876d8addb9fc430881eb074e1f65b140d464c5e8a900d588e29"
+    },
+    {
+      "path": "product/index.html",
+      "bytes": 8334,
+      "sha256": "b4926df8d0fcd488d2da6504e308fdb8c964a4018afb205ad3f79260d923fde3"
     },
     {
       "path": "series/NEXT-DIRECTIONS.md",
@@ -211,8 +287,13 @@
     },
     {
       "path": "series/POSITIONING.md",
-      "bytes": 2952,
-      "sha256": "771a65982c21ca14b9a1abe18a102d6d40b46ac3c19a6e9b5f047850bd3f5887"
+      "bytes": 3353,
+      "sha256": "c2144244716b9737cf459bffef64ab7c940764277263417e1a4e442ba1097e59"
+    },
+    {
+      "path": "series/PRODUCT.md",
+      "bytes": 3235,
+      "sha256": "59eac3bd06a2a833b80fe6b9f9168c92a7f7f30bbc471f6be5f24f7e81d0ca3d"
     },
     {
       "path": "templates/EPISODE-BRIEF.md",

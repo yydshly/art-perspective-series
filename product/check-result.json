@@ -1,0 +1,8 @@
+{
+  "proposal": true,
+  "localSave": true,
+  "jsonExport": true,
+  "automaticProduction": false,
+  "publicRelease": false,
+  "browserRenderingTested": false
+}
