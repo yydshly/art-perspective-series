@@ -1,0 +1,20 @@
+{
+  "artwork": {
+    "artist": "Georges Seurat",
+    "title": "Circus Sideshow (Parade de cirque)",
+    "date": "1887–88",
+    "museum": "The Metropolitan Museum of Art",
+    "object_id": 437654,
+    "accession": "61.101.17",
+    "credit": "Bequest of Stephen C. Clark, 1960",
+    "url": "https://www.metmuseum.org/art/collection/search/437654",
+    "rights": "Public Domain; The Met Open Access CC0",
+    "source_path_from_repository": "episodes/001-the-weight-of-seeing/production/assets/sideshow.jpg",
+    "sha256": "8453f4fa9f01ad532c045807aae99a39edfd137629bace3cb4c1f65b00b9af42",
+    "bytes": 15403158,
+    "verification": "Official catalogue revisited 2026-10-07; stored official API record isPublicDomain=true"
+  },
+  "interpretation": "All sampled color grouping, depth and movement are original digital interpretations. No claim to reconstruct Seurat brushwork or a scientific optical model.",
+  "music": "Original mathematical synthesis; no recordings, voices or external samples",
+  "acceptance": "pending_user_feedback"
+}

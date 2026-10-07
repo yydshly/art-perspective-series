@@ -1,0 +1,12 @@
+{
+  "frames": 864,
+  "downsample": [
+    128,
+    72
+  ],
+  "mean_frame_difference_0_to_255": 2.343486465173169,
+  "max_frame_difference_0_to_255": 6.607421875,
+  "max_difference_at_seconds": 25.0,
+  "p95_frame_difference": 6.203472222222222,
+  "limit": "Low-resolution luma differences screen for gross discontinuities; not a photosensitivity safety certification or aesthetic score."
+}

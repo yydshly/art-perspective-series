@@ -1,5 +1,5 @@
 {
-  "release": "2026-10-07-art-study-review-tools",
+  "release": "2026-10-07-between-colors-36s-study",
   "privacy": "public",
   "episode_001": "complete_unchanged",
   "episode_002_v1": "rejected_by_user",
@@ -419,6 +419,81 @@
       "sha256": "bc8e6080a5e6234383d07fe5bb8fc31cae5b42aa7ce448f8764c6a31124f2cee"
     },
     {
+      "path": "episodes/004-between-colors/README.md",
+      "bytes": 950,
+      "sha256": "8117bdaa2c0984119de3c3f68c4642720dde829af973a4fc1e9b3830d1855356"
+    },
+    {
+      "path": "episodes/004-between-colors/SOURCES.json",
+      "bytes": 1038,
+      "sha256": "c139a73eb0288ffecbf9161b4b722a20833cf27dc5364fbf070e5a2f4276c2eb"
+    },
+    {
+      "path": "episodes/004-between-colors/TREATMENT.md",
+      "bytes": 2081,
+      "sha256": "8976c5ffa4c20c8d0783293e1b2b3f5d97d408c7d08f21d6a4aad2edb58d0c53"
+    },
+    {
+      "path": "episodes/004-between-colors/media/Between-Colors-36s-Study.mp4",
+      "bytes": 12352078,
+      "sha256": "c2553aa66491e5bfd5fe39a90436fe567d6a79c955d4847aeb4f2166be1b3704"
+    },
+    {
+      "path": "episodes/004-between-colors/production/check.py",
+      "bytes": 2037,
+      "sha256": "4274400a597a3f109783b045c91848efacc9d70a0de660134933e036d64d1190"
+    },
+    {
+      "path": "episodes/004-between-colors/production/render.py",
+      "bytes": 8524,
+      "sha256": "a44c9c73d37a5a9b0db415f520bd746f5bf2234649e325ec9a6da309b9103b94"
+    },
+    {
+      "path": "episodes/004-between-colors/qa/REVIEW.md",
+      "bytes": 2073,
+      "sha256": "911cc98e0ad196e4936f750fd8ec459ecea0e544882668192135c951cdf215fa"
+    },
+    {
+      "path": "episodes/004-between-colors/qa/encoded-18.jpg",
+      "bytes": 282222,
+      "sha256": "84cc572d86adf8bf39fb1660611d7ee8e83364ef5f14bbdb9d633fdfc26fd5c4"
+    },
+    {
+      "path": "episodes/004-between-colors/qa/encoded-2.jpg",
+      "bytes": 210409,
+      "sha256": "5f2852a56f1c2f626ebb60be5e108721519b320540b26b6ec3b10c738c1d9daa"
+    },
+    {
+      "path": "episodes/004-between-colors/qa/encoded-31.jpg",
+      "bytes": 362142,
+      "sha256": "65bae62a33927eeed8b8199ea55cd46f63c9ea0eb40bf50718998b9218477fb3"
+    },
+    {
+      "path": "episodes/004-between-colors/qa/encoded-34.5.jpg",
+      "bytes": 353914,
+      "sha256": "b40a649ba4ac4cce026d70c67c8f447e7f11641fdb313eec3e5a20c590dd0f38"
+    },
+    {
+      "path": "episodes/004-between-colors/qa/encoded-contact.jpg",
+      "bytes": 309106,
+      "sha256": "1789efc6bc6098d03fdea4f79645d591e5f82f4b32cb00b150055c352afc0059"
+    },
+    {
+      "path": "episodes/004-between-colors/qa/motion-analysis.json",
+      "bytes": 388,
+      "sha256": "662b4a86f82e198c059d1396cc52621a7b178809a16ec9b95bec7ad17568ab85"
+    },
+    {
+      "path": "episodes/004-between-colors/qa/score-analysis.json",
+      "bytes": 1243,
+      "sha256": "d9fda69b750b34ced8ce66b757226303da4bfec482a5af42b440cbeface965d4"
+    },
+    {
+      "path": "episodes/004-between-colors/qa/technical-report.json",
+      "bytes": 827,
+      "sha256": "99ec29f385a07d134a3b05c35c573f2af6472845b41916dd3df884b5bc337ecf"
+    },
+    {
       "path": "presentation/seeing-poster.jpg",
       "bytes": 354142,
       "sha256": "a85ed58dd4923ac8aeb9c5a44f23047a350d26ac7aaa91244cef8ead1d35501c"
@@ -645,5 +720,7 @@
     }
   ],
   "new_art_research": "Within the Surface, 36-second study, pending user aesthetic feedback; not a finished new full film",
-  "production_review": "source and timeline validation, encoded review page, isolated single-frame reproduction; user aesthetic acceptance independent"
+  "production_review": "source and timeline validation, encoded review page, isolated single-frame reproduction; user aesthetic acceptance independent",
+  "episode_003": "bounded_material_study_pending_user_feedback",
+  "episode_004": "bounded_color_motion_study_pending_user_feedback"
 }

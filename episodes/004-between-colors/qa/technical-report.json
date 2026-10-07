@@ -1,0 +1,41 @@
+{
+  "file": "Between-Colors-36s-Study.mp4",
+  "bytes": 12352078,
+  "sha256": "c2553aa66491e5bfd5fe39a90436fe567d6a79c955d4847aeb4f2166be1b3704",
+  "duration": "36.000000",
+  "resolution": [
+    1280,
+    720
+  ],
+  "frame_rate": "24/1",
+  "audio_channels": 2,
+  "full_decode": "passed",
+  "sound": {
+    "input_i": "-19.06",
+    "input_tp": "-8.35",
+    "input_lra": "3.70",
+    "input_thresh": "-29.57",
+    "output_i": "-19.06",
+    "output_tp": "-8.43",
+    "output_lra": "3.30",
+    "output_thresh": "-29.41",
+    "normalization_type": "dynamic",
+    "target_offset": "0.06"
+  },
+  "actual_frame_times": [
+    2,
+    5.1,
+    7,
+    10,
+    14,
+    18,
+    22,
+    27,
+    31,
+    33,
+    34.5,
+    35.5
+  ],
+  "acceptance": "pending_user_feedback",
+  "subjective_listening": "not claimed; technical audio analysis only"
+}
