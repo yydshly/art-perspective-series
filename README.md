@@ -1,39 +1,37 @@
-# 观看练习 · Art Perspective Series
+# 艺术驱动的视听作品系列 · Art Perspective Series
 
-**系列定位草案：用一部动态视觉作品，认真表达一个关于当代生活的观点。**
+从艺术起始词、领域、氛围或情绪出发，发展材料、色彩、构图、运动与音乐。作品的含义可以在观看中生长，不强制先写一句当代生活观点再配图。
 
-这是一处私密创作库。001 已完成；002 已获推进授权并进入脚本和短样阶段。具体观点与后续方向仍供作者选择，尚未成为作者公开立场。没有自动更新、定期发布或社交平台代发安排。
+当前为私密创作库。001保持原版；002《暂停的权利》两稿均被用户否定，已停止扩展，也不再是默认下一期。没有自动排期、公开发布或无限生成安排。
 
-## 先看第一部
+## 母题首片 · 观看的重量
 
-### 001 · 观看的重量 / The Weight of Seeing
+- [私密作品网页](https://weight-of-seeing.yydshly.chatgpt.site)
+- [完整MP4，16.93MB](episodes/001-the-weight-of-seeing/media/The-Weight-of-Seeing-Mobile.mp4)
+- [较高码率母版](episodes/001-the-weight-of-seeing/media/The-Weight-of-Seeing.mp4)
+- [逐字原始请求及后来片尾修订](episodes/001-the-weight-of-seeing/prompts/01-user-request-verbatim.md)
+- [原作、制作说明、分镜与源代码](episodes/001-the-weight-of-seeing/README.md)
 
-- [私密作品网页](https://weight-of-seeing.yydshly.chatgpt.site)：完整影片、六章跳转、双语全文与出处
-- [完整 MP4，16.93 MB](episodes/001-the-weight-of-seeing/media/The-Weight-of-Seeing-Mobile.mp4)：3 分 48 秒，1280 × 720，24 fps，双声道
-- [双语字幕](episodes/001-the-weight-of-seeing/media/The-Weight-of-Seeing.zh-en.srt)
-- [画面联系表](episodes/001-the-weight-of-seeing/qa/final-contact-sheet.jpg)
-- [提示词与制作经过](episodes/001-the-weight-of-seeing/README.md)
+## 当前有效的产品与艺术方向
 
-GitHub 的文件页不一定直接播放较大视频，可使用下载按钮或上方作品网页。网页及仓库都保持私密，访问者需要各自对应的权限。
+- [艺术驱动的定位](series/POSITIONING.md)：依据用户最新纠正重建
+- [从首片实际视频提取的艺术语言分析](series/001-ART-LANGUAGE.md)
+- [原作与转译的成对帧](series/reference-analysis/001-visual-language-contact.jpg)
+- [产品路径与质量边界](series/PRODUCT.md)
+- [内部艺术研究方向](series/NEXT-DIRECTIONS.md)：尚未开拍，不要求用户再选专业风格
+- [私密创作台](https://weight-of-seeing.yydshly.chatgpt.site/series.html)：艺术起始单、首片参考、模板整理、本地保存与反馈导出
+- [单期艺术起始单模板](templates/EPISODE-BRIEF.md)
 
-## 系列如何推进
+创作台是工作原型，不是已经实现无人值守的AI成片系统。技术可用、内部自检与用户接受分别记录。宁静、沉下来与共鸣是用户看首片后的体验，不是后续每部片的固定主题。
 
-1. [系列定位与边界](series/POSITIONING.md)：形成辨识度，但不预先替作者规定观点
-2. [首季三个方向](series/NEXT-DIRECTIONS.md)：注意力、尺度、记忆
-3. [制作流程与质量门槛](series/PIPELINE.md)：从可争辩的观点，到真正发生变化的声画语言
-4. [002《暂停的权利》选题草案](episodes/002-the-right-to-pause/BRIEF.md)：脚本与短样阶段，完整成片尚未制作
-5. [单期立项模板](templates/EPISODE-BRIEF.md)：下一次直接从一个具体经验和一句主张开始
+## 两次失败保留原状
 
-## 当前最小产品
+- [v1：波形与刻度，用户否定](episodes/002-the-right-to-pause/media/The-Right-to-Pause-20s-Study.mp4)
+- [v2：书桌与晨光，用户再次否定](episodes/002-the-right-to-pause/media/The-Right-to-Pause-20s-v2.mp4)
+- [原始反馈与修订记录](episodes/002-the-right-to-pause/REVISION-LOG.md)
 
-一部已经完成的样片、一套可复用的创作流程、一个可审阅的下一期方案。先验证“作品是否准确表达作者的想法”，再决定栏目名称、发布渠道、节奏和商业化；这些都没有自动替作者确定。
+v1把宁静做成单薄微动；v2又转成“为了说明一个观点而配插画”，两者都偏离了首片的艺术驱动。当前停止赶做v3，先进行艺术概念审查。
 
-所有作品事实、艺术解释、生成素材与原作图像明确区分。详见 [素材与使用边界](RIGHTS.md) 和各期来源清单。
+## 素材与边界
 
-## 产品与第二期进展 · 2026-10-07
-
-- [产品定义和体验质量关口](series/PRODUCT.md)：主题/感受 → 提案 → 真实短样 → 反馈修订 → 成片与源档案
-- [002完整脚本与分镜 v0.2](episodes/002-the-right-to-pause/SCRIPT.md)
-- [002实际20秒声画短样](episodes/002-the-right-to-pause/media/The-Right-to-Pause-20s-Study.mp4)，供反馈，不是完整第二部
-
-用户希望继续产品化，并看重首片的宁静、沉下来与共鸣。当前把这些作为待检验的体验目标，没有把一次反馈当作市场证明。
+[素材与公开范围](RIGHTS.md)。原作、生成图像、原创转译、事实与艺术解释分别标明。GitHub文件页不保证直接播放较大视频，可下载MP4或使用作品网页；网页与仓库各自需要相应私密访问权限。

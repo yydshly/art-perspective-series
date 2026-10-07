@@ -1,8 +1,9 @@
 {
+  "artLedInputs": true,
+  "noCompulsoryThesis": true,
   "proposal": true,
   "localSave": true,
-  "jsonExport": true,
-  "automaticProduction": false,
-  "publicRelease": false,
+  "currentInputExport": true,
+  "autoProduction": false,
   "browserRenderingTested": false
 }

@@ -11,3 +11,7 @@ __pycache__/
 /episodes/002-the-right-to-pause/media/sample-score.wav
 /episodes/002-the-right-to-pause/media/sample-silent.mp4
 /episodes/002-the-right-to-pause/qa/*.log
+/episodes/002-the-right-to-pause/media/v2-score.wav
+/episodes/002-the-right-to-pause/media/v2-silent.mp4
+/episodes/002-the-right-to-pause/qa/v2/*.log
+/episodes/002-the-right-to-pause/qa/v2/001-20s-reference.mp4

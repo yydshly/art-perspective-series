@@ -1,19 +1,22 @@
 {
-  "release": "2026-10-07-product-and-episode-002-study",
+  "release": "2026-10-07-art-led-rebase-after-two-rejections",
   "privacy": "private",
   "episode_001": "complete_unchanged",
-  "episode_002": "script_and_20_second_study_for_feedback_not_final",
-  "product": "local_draft_and_feedback_workbench_prototype",
+  "episode_002_v1": "rejected_by_user",
+  "episode_002_v2": "rejected_by_user",
+  "pause_topic": "withdrawn_as_default_next_episode",
+  "new_rendering": "paused_for_artistic_concept_review",
+  "product": "artistic_seed_domain_atmosphere_emotion_to_audiovisual_composition",
   "files": [
     {
       "path": ".gitignore",
-      "bytes": 331,
-      "sha256": "016ebc5301e2880ca66225f7e2e717193518c3742e34c405bf53196a1bce3119"
+      "bytes": 542,
+      "sha256": "b57fd786181e557f392d1e6a1eef01fc5f6d77fb8724e1dbc12c1f22645364fd"
     },
     {
       "path": "README.md",
-      "bytes": 2726,
-      "sha256": "80859b55dc0f9de1aebd4c712a0d4e9f0147fe5b9280626e67e125fb55776442"
+      "bytes": 2669,
+      "sha256": "3a52ac99c0f3c04d563e767bc4f3162b614a07f18d66b7f5d0ad5682fa582ac1"
     },
     {
       "path": "RIGHTS.md",
@@ -197,13 +200,23 @@
     },
     {
       "path": "episodes/002-the-right-to-pause/BRIEF.md",
-      "bytes": 3805,
-      "sha256": "3be2b09929643e4318315b14bffaee983b3d83e4e1cf51144ba0251897cf17ef"
+      "bytes": 4139,
+      "sha256": "65a653150c38837de261e23f525bb8f8002ac8686286aded9e335779f699f25c"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/REVISION-LOG.md",
+      "bytes": 2756,
+      "sha256": "41646e6b41afcde0c2894e1564bb01f96f03bf653e56b96b616ff7457fe44b1e"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/SCRIPT-v2-20s.md",
+      "bytes": 1517,
+      "sha256": "35db1a972424819e3cbc376fc01625bf75b2131056bf11f353d8b1c3235048f7"
     },
     {
       "path": "episodes/002-the-right-to-pause/SCRIPT.md",
-      "bytes": 2563,
-      "sha256": "404e193ebf938df50ce4bdaaa2d3ac565414eccd463a9637a7fff76756a6220c"
+      "bytes": 2683,
+      "sha256": "8b1451918afbab377be55d7a6fcb6eb729dd4ae3ed276a026fe9a6c671d30871"
     },
     {
       "path": "episodes/002-the-right-to-pause/media/The-Right-to-Pause-20s-Study.mp4",
@@ -211,14 +224,39 @@
       "sha256": "b9dab90bb737e2e5d096982c5d4a29039feb9d4488f1b15881224c965cabe72d"
     },
     {
+      "path": "episodes/002-the-right-to-pause/media/The-Right-to-Pause-20s-v2.mp4",
+      "bytes": 1701427,
+      "sha256": "2e7b45733b47e6d0f515e2d9b4cc779c216b916427ef484110303c4f1f06807f"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/production/assets-v2/PROVENANCE.md",
+      "bytes": 3670,
+      "sha256": "e7e164974376a7e42eeabf69acb06a1b58ca01c619e791d598daa8297a3c361e"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/production/assets-v2/before-dawn.png",
+      "bytes": 2330666,
+      "sha256": "a99561be01cd90720cb0beb7848dcd835c029d22307fa73c9e71832dbe79ebe7"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/production/assets-v2/morning-pause.png",
+      "bytes": 2486145,
+      "sha256": "a5892a984a82b79725f26867e5cb2ee1fe03ca7f0a1efc038cfad1d379ea160d"
+    },
+    {
       "path": "episodes/002-the-right-to-pause/production/render_sample.py",
       "bytes": 5504,
       "sha256": "fe25704ccee54190e7111ac1f3170446a2e46e9e7910c95d1b5e1406c24cf2e6"
     },
     {
+      "path": "episodes/002-the-right-to-pause/production/render_sample_v2.py",
+      "bytes": 6586,
+      "sha256": "0218f85b1c99150a1357fd0003fbaa1086f6f0392ed4191744090e43d1f93bee"
+    },
+    {
       "path": "episodes/002-the-right-to-pause/qa/REVIEW.md",
-      "bytes": 1044,
-      "sha256": "b0f83455e9e1831fb39495be4bcd2ec2db38d552ecab89cc115d5694d492faf1"
+      "bytes": 1202,
+      "sha256": "2767da6b3f2ce30f257e5b608b5f836d013e180f27e70d5971d1b3dd5ce26687"
     },
     {
       "path": "episodes/002-the-right-to-pause/qa/decode-errors.txt",
@@ -256,49 +294,159 @@
       "sha256": "c18311c7d3881b3c17345d4bc54ecdf4732d13cc80024cb97739a70acbb1cf68"
     },
     {
+      "path": "episodes/002-the-right-to-pause/qa/v2/REVIEW.md",
+      "bytes": 1252,
+      "sha256": "7989d6b1a7719364138f8a63c56e3506559a849d4c9ba9f2424e6d3c10aae5d7"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/qa/v2/decode-errors.txt",
+      "bytes": 0,
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/qa/v2/encoded-contact.jpg",
+      "bytes": 136904,
+      "sha256": "b19f8997d207cec9d278936590675adc1fb5a4e2c67fa5900d7fff56fcd977c8"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/qa/v2/frame-13.jpg",
+      "bytes": 82119,
+      "sha256": "6c27400d96d8f7a037deeca5b1e8f1ec687f85db201245e4b03192fe4460d071"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/qa/v2/loudness.txt",
+      "bytes": 36188,
+      "sha256": "76d6b464d10694b7b40a8de3e384ce6bddcb09f342670e3f0a6d71fc783eac16"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/qa/v2/probe.json",
+      "bytes": 390,
+      "sha256": "90518f722eb387c237e24740329d82a82b2053a42997704790a78d35f585eafe"
+    },
+    {
+      "path": "episodes/002-the-right-to-pause/qa/v2/rejected-v1-contact.jpg",
+      "bytes": 39443,
+      "sha256": "cf32dd41eacdf4cbec92e09bba8175a7346b4cd9332deb8f261723ae1e8595e4"
+    },
+    {
       "path": "product/README.md",
-      "bytes": 1012,
-      "sha256": "5dd3932409b9f3c97840099e9b372a7e04f08acdaf12ce21e734be71ca204f86"
+      "bytes": 996,
+      "sha256": "e40681d396677e26d948556c0469340f1c7fa3a059fdc0f113dd00a81ecc9cf4"
     },
     {
       "path": "product/check-result.json",
-      "bytes": 159,
-      "sha256": "aee7d1958dcc8f7365ef9c5229508860b1dc3d2d7857094e2b96e59851224bc3"
+      "bytes": 190,
+      "sha256": "a07104abb526ececc50efb2afa3ff7c5a4599cd8dbfcaa6b171981628113cb5b"
     },
     {
       "path": "product/check.cjs",
-      "bytes": 1665,
-      "sha256": "e745403f0a827876d8addb9fc430881eb074e1f65b140d464c5e8a900d588e29"
+      "bytes": 1663,
+      "sha256": "0d9e3a999d760e515a3ba55ced3a31746e056df57db308f822a66934aa6ea736"
     },
     {
       "path": "product/index.html",
-      "bytes": 8334,
-      "sha256": "b4926df8d0fcd488d2da6504e308fdb8c964a4018afb205ad3f79260d923fde3"
+      "bytes": 9282,
+      "sha256": "eb87dc27ded970d76aaaecd229d5fd4c50db8233ec82ad1d9a09c3573802ef7c"
+    },
+    {
+      "path": "series/001-ART-LANGUAGE.md",
+      "bytes": 4581,
+      "sha256": "8fa73cef0ea752832813dc5245a3ed4cbb3721198c84a02653dedaf895e141db"
+    },
+    {
+      "path": "series/ARCHIVED-TOPICS-2026-10-07.md",
+      "bytes": 1979,
+      "sha256": "760653933fe79fff7e5369fe6c3042ccb9d8c418c7e75aeb22091ce587e60bf8"
     },
     {
       "path": "series/NEXT-DIRECTIONS.md",
-      "bytes": 1830,
-      "sha256": "1d5c759482e8e4b735933cf82a3eb83b12afc2a570c8f8fbbdc8fc37531e215a"
+      "bytes": 1268,
+      "sha256": "44eb363c37c4d6a5fd84bd30219e452e43286cffea132a2a8fcc67af32a1e32c"
     },
     {
       "path": "series/PIPELINE.md",
-      "bytes": 3101,
-      "sha256": "f5b01fddf15338a10a92c30ec7f083917525671bf095a4e301b1869a681ed15b"
+      "bytes": 1809,
+      "sha256": "4dc66d3b0dde6761ffd71767a5c163a6c26d077c23c052cfa13676d20f296fcb"
     },
     {
       "path": "series/POSITIONING.md",
-      "bytes": 3353,
-      "sha256": "c2144244716b9737cf459bffef64ab7c940764277263417e1a4e442ba1097e59"
+      "bytes": 1923,
+      "sha256": "b59ee4dfb6d60fad2f392b9838b6da4ec21cbd55aaf7dfdae86447ff5a7fb6b2"
     },
     {
       "path": "series/PRODUCT.md",
-      "bytes": 3235,
-      "sha256": "59eac3bd06a2a833b80fe6b9f9168c92a7f7f30bbc471f6be5f24f7e81d0ca3d"
+      "bytes": 2224,
+      "sha256": "a0b7e01f599a6b7f44745c2d23f0de6030db80ce03744ccbef21db902eb1b1f1"
+    },
+    {
+      "path": "series/reference-analysis/001-018.jpg",
+      "bytes": 31137,
+      "sha256": "ebe2c2ba3e7eb7aa4a58de3d7c24116e19bda112196f9508f61071780a83e158"
+    },
+    {
+      "path": "series/reference-analysis/001-030.jpg",
+      "bytes": 39862,
+      "sha256": "6b6b34c2f0d178e0522178abf3cadb31402cdc79c6240711eccc2cf8af4de97b"
+    },
+    {
+      "path": "series/reference-analysis/001-054.jpg",
+      "bytes": 55230,
+      "sha256": "464df2ab977d49013485439c0f82a0d8765b83fd4361bfdcaa06bc8196872963"
+    },
+    {
+      "path": "series/reference-analysis/001-067.jpg",
+      "bytes": 69779,
+      "sha256": "b8bd0b25decd6028fd341de3556f4344059f9a1060ea163dc8ef998a5eb3b3ab"
+    },
+    {
+      "path": "series/reference-analysis/001-090.jpg",
+      "bytes": 79233,
+      "sha256": "149204093d62856db5a48e6a48d85568d9c9b0bca679b620d7f5c78777fb3abd"
+    },
+    {
+      "path": "series/reference-analysis/001-103.jpg",
+      "bytes": 50990,
+      "sha256": "57df8168ac9f8bd2cd1d984abda9fa2284244d76bc6ed8c62912951636361eab"
+    },
+    {
+      "path": "series/reference-analysis/001-126.jpg",
+      "bytes": 72615,
+      "sha256": "ac99c7ac0ea407a34fe939e57027e06b07d00136e72591686796c1c041ca76b5"
+    },
+    {
+      "path": "series/reference-analysis/001-138.jpg",
+      "bytes": 110309,
+      "sha256": "ab24513e7b45dcc8971b988b0106403fad206375c5a1db220e54fe084de8fdc3"
+    },
+    {
+      "path": "series/reference-analysis/001-162.jpg",
+      "bytes": 34548,
+      "sha256": "58e8190c869a333bf90693a71cd5bb8fb323c2bb1d24a42aeb1ef92bf4ba3806"
+    },
+    {
+      "path": "series/reference-analysis/001-177.jpg",
+      "bytes": 28703,
+      "sha256": "7a7302d8d1452c90666965a87b415437c89dbeb2a5009cfd7c12bd9b7cd56009"
+    },
+    {
+      "path": "series/reference-analysis/001-203.jpg",
+      "bytes": 75542,
+      "sha256": "a2480184413de84f55adefd09c76625e815c8396dc29580608170cf186503017"
+    },
+    {
+      "path": "series/reference-analysis/001-212.jpg",
+      "bytes": 88379,
+      "sha256": "64a6bfc51d68e952fd68b7ab3398b9f7a9c2ef9254745d961e0e34982205274a"
+    },
+    {
+      "path": "series/reference-analysis/001-visual-language-contact.jpg",
+      "bytes": 569105,
+      "sha256": "6d4f1d9c5660d99ee618cd9710d492e5b5a18bb6d4acdc8599586a6b32985a26"
     },
     {
       "path": "templates/EPISODE-BRIEF.md",
-      "bytes": 539,
-      "sha256": "4638085fa1ed37c8ae7a327d583591d893475804ea0bcef893a2544555b9ab3c"
+      "bytes": 651,
+      "sha256": "cdca4b58964f09a1d66c930c2a1d9d1d0f45408ad96bb09c9a6978dd64235e70"
     }
   ]
 }
