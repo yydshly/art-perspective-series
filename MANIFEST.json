@@ -1,5 +1,5 @@
 {
-  "release": "2026-10-07-within-the-surface-36-second-research",
+  "release": "2026-10-07-art-study-review-tools",
   "privacy": "public",
   "episode_001": "complete_unchanged",
   "episode_002_v1": "rejected_by_user",
@@ -330,8 +330,8 @@
     },
     {
       "path": "episodes/003-within-the-surface/README.md",
-      "bytes": 2060,
-      "sha256": "dd1d679c4f39fda76a9e22401adde180dd7efb552c0e746a2624255485d6e814"
+      "bytes": 2337,
+      "sha256": "112b6ea80ce0cdf77073099c5b19241d2fe88f7a7ee4568b998764ab912e6a71"
     },
     {
       "path": "episodes/003-within-the-surface/media/Within-the-Surface-36s-Study.mp4",
@@ -365,8 +365,8 @@
     },
     {
       "path": "episodes/003-within-the-surface/production/render_study.py",
-      "bytes": 8743,
-      "sha256": "e648dde9208398521390bacdbfb0e3999d0e2444c527f970a0ad61230e9c78cd"
+      "bytes": 9557,
+      "sha256": "20ed30fad10127a39b3fc75cc268c01b397ce6344fdd8f3a97d1c60baa0508da"
     },
     {
       "path": "episodes/003-within-the-surface/qa/REVIEW.md",
@@ -414,14 +414,19 @@
       "sha256": "c062d0726853985fcb7753987d800ac47e844ecf8197ed0d80eb34cd63593ac2"
     },
     {
+      "path": "episodes/003-within-the-surface/study.json",
+      "bytes": 2269,
+      "sha256": "bc8e6080a5e6234383d07fe5bb8fc31cae5b42aa7ce448f8764c6a31124f2cee"
+    },
+    {
       "path": "presentation/seeing-poster.jpg",
       "bytes": 354142,
       "sha256": "a85ed58dd4923ac8aeb9c5a44f23047a350d26ac7aaa91244cef8ead1d35501c"
     },
     {
       "path": "product/README.md",
-      "bytes": 996,
-      "sha256": "e40681d396677e26d948556c0469340f1c7fa3a059fdc0f113dd00a81ecc9cf4"
+      "bytes": 1460,
+      "sha256": "dd9be5aa1d1e308eef1513112f6132af782a238ecf0a2b42b9f3f337132c4fcc"
     },
     {
       "path": "product/check-result.json",
@@ -437,6 +442,61 @@
       "path": "product/index.html",
       "bytes": 9282,
       "sha256": "eb87dc27ded970d76aaaecd229d5fd4c50db8233ec82ad1d9a09c3573802ef7c"
+    },
+    {
+      "path": "product/review-003/VALIDATION.md",
+      "bytes": 1368,
+      "sha256": "1172b82062c059c1407645d0829b0f509d749bbabc5af1bf965bc958a4d191dc"
+    },
+    {
+      "path": "product/review-003/environment.json",
+      "bytes": 449,
+      "sha256": "5d4ad9f225d5d0176e42756f7aeff77208c8ee13f4b09a28dbd9bf38b8dd5b46"
+    },
+    {
+      "path": "product/review-003/index.html",
+      "bytes": 5710,
+      "sha256": "d7ca8f62bfbc538b98fdf50333251b57c619c6fc730b6c1e12bd192afc751496"
+    },
+    {
+      "path": "product/review-003/report.json",
+      "bytes": 1079,
+      "sha256": "3c29ba6be57a148b1b38d11b31932ff2e25c834f36ce0f68a48f003393dda3f6"
+    },
+    {
+      "path": "product/review-003/shot-01.jpg",
+      "bytes": 30182,
+      "sha256": "265466b7b8c95a0e68e6860039dd37346abb9067f70a4bbc3d8a1e9c4be05059"
+    },
+    {
+      "path": "product/review-003/shot-02.jpg",
+      "bytes": 42365,
+      "sha256": "afd951ad813499d6cafe3485dececfd10c00144722476b871352fb8f061f0d05"
+    },
+    {
+      "path": "product/review-003/shot-03.jpg",
+      "bytes": 54382,
+      "sha256": "27aaf9ab875f2935ec062b7022406c45bf045abb5b9a54eb824fbeeadd294092"
+    },
+    {
+      "path": "product/review-003/shot-04.jpg",
+      "bytes": 42756,
+      "sha256": "68ef9f2b92641a867fa2b5eef439fc5ee80a05fc157aeaa22b0ed510b5a7f5c8"
+    },
+    {
+      "path": "product/review-003/shot-05.jpg",
+      "bytes": 23071,
+      "sha256": "43c856fd2c22d23fd21a2dab69a4820b83b7b4e16bfadddbb0b82cc025d7a18b"
+    },
+    {
+      "path": "product/review-003/shot-06.jpg",
+      "bytes": 27862,
+      "sha256": "6998827777b6d8ed30477b933432c46587792124c67a2b9ea64dc9afa215b128"
+    },
+    {
+      "path": "product/review-003/shot-07.jpg",
+      "bytes": 39668,
+      "sha256": "16fc82fbce09d88685af2a9a905e5d859ed26651097cb09d340572cb536df49e"
     },
     {
       "path": "series/001-ART-LANGUAGE.md",
@@ -562,7 +622,28 @@
       "path": "templates/EPISODE-BRIEF.md",
       "bytes": 651,
       "sha256": "cdca4b58964f09a1d66c930c2a1d9d1d0f45408ad96bb09c9a6978dd64235e70"
+    },
+    {
+      "path": "tools/README.md",
+      "bytes": 3086,
+      "sha256": "efd245b32e7235f3e8752cc1036bd550226c5924a970fc3bed823171268bfcff"
+    },
+    {
+      "path": "tools/check_review_ui.cjs",
+      "bytes": 1624,
+      "sha256": "dc5b31601572cff8303273704602c97907487ed9263bfcfb3db32b5a62f17fc2"
+    },
+    {
+      "path": "tools/review_study.py",
+      "bytes": 9670,
+      "sha256": "3194a5dda4914dfb87a29dd3ddf11dbd7d130e9b17cc896ea09ad4bcb5f72509"
+    },
+    {
+      "path": "tools/test_review_study.py",
+      "bytes": 2123,
+      "sha256": "f95a8ae9f29e8670ea7b97bb84bd10c9b507383ad37751610c6899bc1d6d9c9c"
     }
   ],
-  "new_art_research": "Within the Surface, 36-second study, pending user aesthetic feedback; not a finished new full film"
+  "new_art_research": "Within the Surface, 36-second study, pending user aesthetic feedback; not a finished new full film",
+  "production_review": "source and timeline validation, encoded review page, isolated single-frame reproduction; user aesthetic acceptance independent"
 }

@@ -123,7 +123,18 @@ def score():
  with wave.open(str(R/'media/study-score.wav'),'wb') as f:f.setnchannels(2);f.setsampwidth(2);f.setframerate(sr);f.writeframes((out*32767).astype('<i2').tobytes())
 
 if __name__=='__main__':
- if '--stills' in sys.argv:
+ import argparse
+ parser=argparse.ArgumentParser(description=__doc__)
+ parser.add_argument('--stills',action='store_true',help='Render the established preflight frames only')
+ parser.add_argument('--frame',type=float,help='Render one frame at a time in seconds (0 <= t < 36)')
+ parser.add_argument('--output-dir',type=Path,help='Separate output root; original assets remain read-only')
+ args=parser.parse_args()
+ if args.frame is not None and (not math.isfinite(args.frame) or not 0<=args.frame<D):parser.error('--frame must be between 0 and 36 (exclusive)')
+ if args.output_dir:R=args.output_dir.resolve()
+ (R/'qa').mkdir(parents=True,exist_ok=True);(R/'media').mkdir(parents=True,exist_ok=True)
+ if args.frame is not None:
+  target=R/'qa'/f'frame-{args.frame:g}.png';frame(args.frame).save(target);print(target);sys.exit()
+ if args.stills:
   for t in [3,8,12,18,24,28,32,34]:frame(t).save(R/'qa'/f'preflight-{t:02}.jpg',quality=95)
   print('preflight frames ready');sys.exit()
  score();p=subprocess.Popen(['ffmpeg','-y','-f','rawvideo','-pix_fmt','rgb24','-s','1280x720','-r','24','-i','-','-an','-c:v','libx264','-threads','2','-preset','fast','-crf','21','-pix_fmt','yuv420p',str(R/'media/study-silent.mp4')],stdin=subprocess.PIPE,stderr=open(R/'qa/render.log','w'))

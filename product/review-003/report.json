@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "episode": "003-within-the-surface",
+  "acceptance": "pending_user_feedback",
+  "technical_checks": {
+    "source_integrity": "passed",
+    "timeline": "passed",
+    "full_decode": "passed"
+  },
+  "media": {
+    "sha256": "aba8b2abb275ec4398d6223a392ae59a6477bd41f307338dc3aa2e300be25740",
+    "bytes": 14038945,
+    "duration": 36.0,
+    "width": 1280,
+    "height": 720,
+    "fps": 24.0
+  },
+  "sound": {
+    "integrated_lufs": -19.4,
+    "true_peak_dbfs": -7.68,
+    "loudness_range_lu": 2.7
+  },
+  "frames": [
+    {
+      "time": 3.5,
+      "file": "shot-01.jpg"
+    },
+    {
+      "time": 8.0,
+      "file": "shot-02.jpg"
+    },
+    {
+      "time": 12.0,
+      "file": "shot-03.jpg"
+    },
+    {
+      "time": 15.6,
+      "file": "shot-04.jpg"
+    },
+    {
+      "time": 19.6,
+      "file": "shot-05.jpg"
+    },
+    {
+      "time": 24.0,
+      "file": "shot-06.jpg"
+    },
+    {
+      "time": 30.5,
+      "file": "shot-07.jpg"
+    }
+  ],
+  "aesthetic_acceptance": "NOT determined by this tool",
+  "human_listening": "not performed by this tool"
+}

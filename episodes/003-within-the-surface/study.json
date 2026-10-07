@@ -1,0 +1,81 @@
+{
+  "schema_version": 1,
+  "episode": "003-within-the-surface",
+  "title": "水面之内 / Within the Surface",
+  "artistic_seed": "同一水园中，具象框景如何转为笔触与反射形成的空间",
+  "acceptance": "pending_user_feedback",
+  "duration": 36,
+  "fps": 24,
+  "media": "media/Within-the-Surface-36s-Study.mp4",
+  "source_manifest": "production/assets/SOURCES.json",
+  "renderer": "production/render_study.py",
+  "shots": [
+    {
+      "start": 0,
+      "end": 7,
+      "kind": "source",
+      "title_zh": "1900完整原作",
+      "title_en": "Whole source: 1900",
+      "asset": "pond-1900-reference.jpg"
+    },
+    {
+      "start": 7,
+      "end": 9,
+      "kind": "detail",
+      "title_zh": "进入笔触",
+      "title_en": "Entering the painted detail",
+      "asset": "pond-1900-reference.jpg"
+    },
+    {
+      "start": 9,
+      "end": 15,
+      "kind": "interpretation",
+      "title_zh": "桥下的色层空间",
+      "title_en": "Color layers beneath the bridge",
+      "asset": "pond-1900-reference.jpg"
+    },
+    {
+      "start": 15,
+      "end": 16.2,
+      "kind": "transition",
+      "title_zh": "两种空间交接",
+      "title_en": "Transition between spaces",
+      "asset": null
+    },
+    {
+      "start": 16.2,
+      "end": 23,
+      "kind": "source",
+      "title_zh": "1906完整原作",
+      "title_en": "Whole source: 1906",
+      "asset": "lilies-1906-reference.jpg"
+    },
+    {
+      "start": 23,
+      "end": 25,
+      "kind": "detail",
+      "title_zh": "水面局部",
+      "title_en": "Surface detail",
+      "asset": "lilies-1906-reference.jpg"
+    },
+    {
+      "start": 25,
+      "end": 36,
+      "kind": "interpretation",
+      "title_zh": "观看进入色层",
+      "title_en": "The eye within color",
+      "asset": "lilies-1906-reference.jpg"
+    }
+  ],
+  "review_prompts": [
+    "原作与转译之间是否有可信的材料关系？",
+    "相似色域是否仍有空间与节奏的变化？",
+    "音乐留白是否支撑观看，而非替画面制造情绪？",
+    "文字是否抢夺画面或误标原作？"
+  ],
+  "limitations": [
+    "运动为纹理片段构造，非原作三维扫描",
+    "自动指标不判断艺术成功",
+    "完整听审与用户认可仍需单独记录"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "python": "3.13.5",
+  "numpy": "2.2.4",
+  "pillow": "11.1.0",
+  "ffmpeg": "ffmpeg version 7.1.5-0+deb13u1 Copyright (c) 2000-2026 the FFmpeg developers",
+  "frame_seed": 19001906,
+  "score_seed": 8844,
+  "repeated_frame_time": 15.6,
+  "repeated_png_sha256": "80174b8108249c7ed3e078920af2530fd99b3278666b17a54e98555874e6da26",
+  "scope": "Two fresh processes produce identical single-frame PNGs; cross-platform bit-identical video not claimed"
+}
